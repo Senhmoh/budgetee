@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background: #0a0a0a;
+  color: #ededed;
+  font-feature-settings: "tnum"; /* chiffres tabulaires : scannabilité */
+}
